@@ -1,5 +1,9 @@
 # MSDS_434_ModuleFour
 
+Use BigQuery to analyze personal golf data
+
+
+
 gcloud config set project project_id
 
 mkdir data
